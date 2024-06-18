@@ -1,0 +1,6 @@
+MYSQL_DATABASE="payments_database"
+MYSQL_USER="user_db"
+MYSQL_PASSWORD="secret_password"
+MYSQL_ROOT_PASSWORD="root_password"
+DATABASE_URL="mysql://user_db:secret_password@db:3306/payments_database"
+SECRET_KEY="django-insecure-8uv$5yltx*3zr2==_%#bcb=(93a&2*x7i_k%623-3hl$mzi4i)"
